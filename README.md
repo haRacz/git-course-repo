@@ -1,2 +1,3 @@
-# git-course-repo
-Repo for learning purposes
+# Repo for git course
+
+Just toying around
